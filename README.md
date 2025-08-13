@@ -47,9 +47,6 @@ Google Colab | Jupyter | VS Code | GitHub
 
 ---
 
-## 📊 GitHub Stats
-![GitHub ](https://github.com/Revanth-4233/Revanth-4233/t)  
-
 ---
 
 ## 🎯 Areas of Interest
