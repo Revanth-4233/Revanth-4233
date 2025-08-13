@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🚀 Mukesh Revanth
 
-<!--
-**Revanth-4233/Revanth-4233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+Hello! I'm **Mukesh Revanth**, a passionate developer with skills in building web applications, AI-based projects, and automation tools.
+
+## 💻 Tech Stack & Skills
+- Python 🐍
+- Java ☕
+- HTML, CSS, JavaScript 🌐
+- AI/ML 🤖
+- MySQL 🗄️
+
+## 🔗 Links
+- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](https://www.linkedin.com/in/mukesh-revanth-3529b329a/)
+- [GitHub](https://github.com/Revanth-4233)
