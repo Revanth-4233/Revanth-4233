@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mukesh Revanth
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79D&width=435&lines=Passionate+Developer;AI+%26+ML+Enthusiast;Full+Stack+Learner;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79D&width=435&lines=Aspiring+Developer;AI+%26+ML+Enthusiast;Full+Stack+Learner;Always+Learning+New+Things)
 
 ---
 
