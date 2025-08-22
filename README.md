@@ -1,63 +1,61 @@
 # Hi there! 👋 I'm Mukesh Revanth
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79D&width=435&lines=Aspiring+Developer;AI+%26+ML+Enthusiast;Full+Stack+Learner;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79D&width=600&lines=Aspiring+Software+Developer;AI+%26+ML+Enthusiast;Full+Stack+Learner;Always+Learning+New+Things)
 
 ---
 
 ## 🚀 About Me
-🎓 B.Tech Computer Science (AI & ML Specialization) at RISE Krishna Sai Prakasam Group of Institutions  
-🏆 CGPA: 7.29/10 (Expected June 2026)  
-🌱 Currently exploring AI-powered web applications, AI related  
-💡 Passionate about building AI-driven projects that solve real-world problems  
-📍 Based in Kandukur, Andhra Pradesh, India  
+🎓 Final-year **B.Tech in Computer Science (AI & ML Specialization)** at RISE Krishna Sai Prakasam Group of Institutions  
+🏆 Current CGPA: **7.2/10** (Expected Graduation: 2026)  
+🌱 Currently exploring **AI-powered applications** and **data-driven dashboards**  
+💡 Passionate about solving real-world problems with **AI, ML, and Full-Stack Development**  
+📍 Based in **Kandukur, Andhra Pradesh, India**  
 
 ---
 
 ## 🔥 Featured Projects
+- **Portfolio Website** – Responsive website built with HTML, CSS, and JavaScript  
+   ✅ Mobile-friendly design, improved engagement by 30%  
+   🔗 [GitHub Repo](https://github.com/Revanth-4233/Responsive_Portfolio) | [Live Demo](https://revanth-4233.github.io/Responsive_Portfolio/)
 
-### Python Calculator – Python 
+- **Python GUI Calculator** – User-friendly calculator with keyboard & mouse support (Tkinter)  
+   🔗 [GitHub Repo](https://github.com/Revanth-4233)  
 
-### Portfolio Website - using HTML , Java Script ,CSS 
-🧩 Key Highlights to Mention:
-Responsive layout for mobile and desktop screens ✅
-
- 
-
-- 🛠️ Tech Stack: Python, Machine Learning 
+- **Economic Freedom Analysis Dashboard (Tableau)** – Built 5+ dashboards to visualize global economic indicators  
+   🔗 [Dashboard](https://public.tableau.com/app/profile/mukesh.revanth/viz/shared/D6NC2Q337)  
 
 ---
 
 ## 💻 Tech Stack
 
 **Languages**  
-Python | Java | SQL | JavaScript  
+Python | Java | C | SQL | JavaScript  
 
 **Web Technologies**  
 HTML5 | CSS3 | Flask  
 
 **Tools & Platforms**  
-Google Colab | Jupyter | VS Code | GitHub  
+VS Code | Google Colab | Jupyter | GitHub | Tableau | Power BI  
 
 ---
 
 ## 🏆 Certifications
-- 🤖 Google AI-ML Virtual Internship - EduSkills (Jul-Sep 2024)  
-- 🎓 TECH CAMP on Google AI-ML - EduSkills (Aug 2024)  
--   python Certification - GeekForGeeks
-
----
+- 🎓 **Full Stack Java** – ExcelR  
+- 🤖 **AI-ML Virtual Internship** – EduSkills (2024)  
+- 📊 **Power BI Workshop** – Office Master  
+- 🌐 **Google AI-ML Tech Camp** – EduSkills  
 
 ---
 
 ## 🎯 Areas of Interest
-- 🤖 Artificial Intelligence & Machine Learning
+- 🤖 Artificial Intelligence & Machine Learning  
 - 🌐 Full-Stack Web Development  
+- 📊 Data Analytics & Visualization  
 
 ---
 
 ## 🤝 Let's Connect!
-📧 **Email**: [mukeshrevanth@example.com](mailto:mukeshrevanth@example.com)  
-💼 **LinkedIn**: [linkedin.com/in/mukesh-revanth](https://www.linkedin.com/in/mukesh-revanth-3529b329a/)  
-💻 **GitHub**: [github.com/MukeshRevanth](https://github.com/Revanth-4233)  
-🎯 **LeetCode**: [leetcode.com/mukeshrevanth](https://leetcode.com/u/mukesh_revanth/)  
-
+📧 **Email**: [mukeshrevanth49@gmail.com](mailto:mukeshrevanth49@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/mukesh-revanth-3529b329a](https://www.linkedin.com/in/mukesh-revanth-3529b329a/)  
+💻 **GitHub**: [github.com/Revanth-4233](https://github.com/Revanth-4233)  
+🎯 **LeetCode**: [leetcode.com/mukesh_revanth](https://leetcode.com/u/mukesh_revanth/)  
