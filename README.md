@@ -55,7 +55,7 @@ VS Code | Google Colab | Jupyter | GitHub | Tableau | Power BI
 ---
 
 ## 🤝 Let's Connect!
-📧 **Email**: [mukeshrevanth49@gmail.com](mailto:mukeshrevanth49@gmail.com)  
+📧 **Email**: [mukeshrevanth49@gmail.com](mailto:mukeshrevanth94@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/mukesh-revanth-3529b329a](https://www.linkedin.com/in/mukesh-revanth-3529b329a/)  
 💻 **GitHub**: [github.com/Revanth-4233](https://github.com/Revanth-4233)  
 🎯 **LeetCode**: [leetcode.com/mukesh_revanth](https://leetcode.com/u/mukesh_revanth/)  
