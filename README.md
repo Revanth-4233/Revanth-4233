@@ -5,8 +5,7 @@
 ---
 
 ## 🚀 About Me
-🎓 Final-year **B.Tech in Computer Science (AI & ML Specialization)** at RISE Krishna Sai Prakasam Group of Institutions  
-🏆 Current CGPA: **7.2/10** (Expected Graduation: 2026)  
+🎓 **B.Tech in Computer Science (AI & ML Specialization)** at RISE Krishna Sai Prakasam Group of Institutions  
 🌱 Currently exploring **AI-powered applications** and **data-driven dashboards**  
 💡 Passionate about solving real-world problems with **AI, ML, and Full-Stack Development**  
 📍 Based in **Kandukur, Andhra Pradesh, India**  
@@ -29,7 +28,7 @@
 ## 💻 Tech Stack
 
 **Languages**  
-Python | Java | C | SQL | JavaScript  
+Python | Java | C | SQL   
 
 **Web Technologies**  
 HTML5 | CSS3 | Flask  
